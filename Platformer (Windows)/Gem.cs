@@ -59,6 +59,7 @@ namespace Platformer
             this.basePosition = position;
 
             IsPowerUp = isPowerUp;
+
             if (IsPowerUp)
             {
                 PointValue = 100;

@@ -29,10 +29,12 @@ namespace Platformer
         // Powerup state
         private const float MaxPowerUpTime = 6.0f;
         private float powerUpTime;
+
         public bool IsPoweredUp
         {
             get { return powerUpTime > 0.0f; }
         }
+
         private readonly Color[] poweredUpColors = {
                                Color.Red,
                                Color.Blue,
@@ -45,12 +47,14 @@ namespace Platformer
         {
             get { return level; }
         }
+
         Level level;
 
         public bool IsAlive
         {
             get { return isAlive; }
         }
+
         bool isAlive;
 
         // Physics state
@@ -59,6 +63,7 @@ namespace Platformer
             get { return position; }
             set { position = value; }
         }
+
         Vector2 position;
 
         private float previousBottom;
@@ -68,6 +73,7 @@ namespace Platformer
             get { return velocity; }
             set { velocity = value; }
         }
+
         Vector2 velocity;
 
         // Constants for controling horizontal movement

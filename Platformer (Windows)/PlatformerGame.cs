@@ -196,21 +196,19 @@ namespace Platformer
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-            graphics.GraphicsDevice.Clear(Color.CornflowerBlue);
-            
-            spriteBatch.Begin();
+            graphics.GraphicsDevice.Clear(Color.CornflowerBlue);                       
 
             level.Draw(gameTime, spriteBatch);
 
-            DrawHud();
-
-            spriteBatch.End();
+            DrawHud();            
 
             base.Draw(gameTime);
         }
 
         private void DrawHud()
         {
+            spriteBatch.Begin();
+
             Rectangle titleSafeArea = GraphicsDevice.Viewport.TitleSafeArea;
             Vector2 hudLocation = new Vector2(titleSafeArea.X, titleSafeArea.Y);
             Vector2 center = new Vector2(titleSafeArea.X + titleSafeArea.Width / 2.0f,
@@ -261,6 +259,8 @@ namespace Platformer
                 Vector2 statusSize = new Vector2(status.Width, status.Height);
                 spriteBatch.Draw(status, center - statusSize / 2, Color.White);
             }
+
+            spriteBatch.End();
         }
 
         private void DrawShadowedString(SpriteFont font, string value, Vector2 position, Color color)
