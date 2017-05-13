@@ -594,7 +594,7 @@ namespace Platformer
             // For each tile position
             for (int y = 0; y < Height; ++y)
             {
-                for (int x = left; x < right; ++x)
+                for (int x = left; x <= right; ++x)
                 {
                     // If there is a visible tile in that position
                     Texture2D texture = tiles[x, y].Texture;
