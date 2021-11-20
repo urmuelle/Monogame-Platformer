@@ -30,3 +30,13 @@ _ReSharper*/
 #ignore thumbnails created by windows
 #Ignore files build by Visual Studio
 [Tt]est[Rr]esult*
+
+#Ignore thumbnails created by Windows
+#Ignore files built by Visual Studio
+.vs/
+#Nuget packages folder
+packages/
+
+#ignore VS Files
+.vs/
+
