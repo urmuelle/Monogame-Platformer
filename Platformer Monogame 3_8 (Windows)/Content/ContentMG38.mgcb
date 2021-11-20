@@ -13,7 +13,7 @@
 
 #---------------------------------- Content ---------------------------------#
 
-#begin ../../Platformer (Windows)/Content/Backgrounds/Layer0_0.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer0_0.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -23,9 +23,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Backgrounds/Layer0_0.png;Backgrounds/Layer0_0.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer0_0.png;Backgrounds/Layer0_0.png
 
-#begin ../../Platformer (Windows)/Content/Backgrounds/Layer0_1.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer0_1.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -35,9 +35,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Backgrounds/Layer0_1.png;Backgrounds/Layer0_1.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer0_1.png;Backgrounds/Layer0_1.png
 
-#begin ../../Platformer (Windows)/Content/Backgrounds/Layer0_2.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer0_2.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -47,9 +47,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Backgrounds/Layer0_2.png;Backgrounds/Layer0_2.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer0_2.png;Backgrounds/Layer0_2.png
 
-#begin ../../Platformer (Windows)/Content/Backgrounds/Layer1_0.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer1_0.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -59,9 +59,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Backgrounds/Layer1_0.png;Backgrounds/Layer1_0.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer1_0.png;Backgrounds/Layer1_0.png
 
-#begin ../../Platformer (Windows)/Content/Backgrounds/Layer1_1.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer1_1.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -71,9 +71,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Backgrounds/Layer1_1.png;Backgrounds/Layer1_1.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer1_1.png;Backgrounds/Layer1_1.png
 
-#begin ../../Platformer (Windows)/Content/Backgrounds/Layer1_2.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer1_2.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -83,9 +83,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Backgrounds/Layer1_2.png;Backgrounds/Layer1_2.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer1_2.png;Backgrounds/Layer1_2.png
 
-#begin ../../Platformer (Windows)/Content/Backgrounds/Layer2_0.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer2_0.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -95,9 +95,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Backgrounds/Layer2_0.png;Backgrounds/Layer2_0.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer2_0.png;Backgrounds/Layer2_0.png
 
-#begin ../../Platformer (Windows)/Content/Backgrounds/Layer2_1.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer2_1.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -107,9 +107,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Backgrounds/Layer2_1.png;Backgrounds/Layer2_1.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer2_1.png;Backgrounds/Layer2_1.png
 
-#begin ../../Platformer (Windows)/Content/Backgrounds/Layer2_2.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer2_2.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -119,25 +119,25 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Backgrounds/Layer2_2.png;Backgrounds/Layer2_2.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Backgrounds/Layer2_2.png;Backgrounds/Layer2_2.png
 
-#begin ../../Platformer (Windows)/Content/Fonts/Hud.spritefont
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Fonts/Hud.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor
 /processorParam:PremultiplyAlpha=True
 /processorParam:TextureFormat=Compressed
-/build:../../Platformer (Windows)/Content/Fonts/Hud.spritefont;Fonts/Hud.spritefont
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Fonts/Hud.spritefont;Fonts/Hud.spritefont
 
-#begin ../../Platformer (Windows)/Content/Levels/0.txt
-/copy:../../Platformer (Windows)/Content/Levels/0.txt;Levels/0.txt
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Levels/0.txt
+/copy:../../Platformer Monogame 3_7 (Windows)/Content/Levels/0.txt;Levels/0.txt
 
-#begin ../../Platformer (Windows)/Content/Levels/1.txt
-/copy:../../Platformer (Windows)/Content/Levels/1.txt;Levels/1.txt
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Levels/1.txt
+/copy:../../Platformer Monogame 3_7 (Windows)/Content/Levels/1.txt;Levels/1.txt
 
-#begin ../../Platformer (Windows)/Content/Levels/2.txt
-/copy:../../Platformer (Windows)/Content/Levels/2.txt;Levels/2.txt
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Levels/2.txt
+/copy:../../Platformer Monogame 3_7 (Windows)/Content/Levels/2.txt;Levels/2.txt
 
-#begin ../../Platformer (Windows)/Content/Overlays/you_died.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Overlays/you_died.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -147,9 +147,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Overlays/you_died.png;Overlays/you_died.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Overlays/you_died.png;Overlays/you_died.png
 
-#begin ../../Platformer (Windows)/Content/Overlays/you_lose.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Overlays/you_lose.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -159,9 +159,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Overlays/you_lose.png;Overlays/you_lose.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Overlays/you_lose.png;Overlays/you_lose.png
 
-#begin ../../Platformer (Windows)/Content/Overlays/you_win.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Overlays/you_win.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -171,57 +171,57 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Overlays/you_win.png;Overlays/you_win.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Overlays/you_win.png;Overlays/you_win.png
 
-#begin ../../Platformer (Windows)/Content/Sounds/ExitReached.wma
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sounds/ExitReached.wma
 /importer:WmaImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:../../Platformer (Windows)/Content/Sounds/ExitReached.wma;Sounds/ExitReached.wma
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sounds/ExitReached.wma;Sounds/ExitReached.wma
 
-#begin ../../Platformer (Windows)/Content/Sounds/GemCollected.wma
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sounds/GemCollected.wma
 /importer:WmaImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:../../Platformer (Windows)/Content/Sounds/GemCollected.wma;Sounds/GemCollected.wma
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sounds/GemCollected.wma;Sounds/GemCollected.wma
 
-#begin ../../Platformer (Windows)/Content/Sounds/MonsterKilled.wma
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sounds/MonsterKilled.wma
 /importer:WmaImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:../../Platformer (Windows)/Content/Sounds/MonsterKilled.wma;Sounds/MonsterKilled.wma
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sounds/MonsterKilled.wma;Sounds/MonsterKilled.wma
 
-#begin ../../Platformer (Windows)/Content/Sounds/Music.wma
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sounds/Music.wma
 /importer:WmaImporter
 /processor:SongProcessor
 /processorParam:Quality=Best
-/build:../../Platformer (Windows)/Content/Sounds/Music.wma;Sounds/Music.wma
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sounds/Music.wma;Sounds/Music.wma
 
-#begin ../../Platformer (Windows)/Content/Sounds/PlayerFall.wma
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sounds/PlayerFall.wma
 /importer:WmaImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:../../Platformer (Windows)/Content/Sounds/PlayerFall.wma;Sounds/PlayerFall.wma
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sounds/PlayerFall.wma;Sounds/PlayerFall.wma
 
-#begin ../../Platformer (Windows)/Content/Sounds/PlayerJump.wma
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sounds/PlayerJump.wma
 /importer:WmaImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:../../Platformer (Windows)/Content/Sounds/PlayerJump.wma;Sounds/PlayerJump.wma
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sounds/PlayerJump.wma;Sounds/PlayerJump.wma
 
-#begin ../../Platformer (Windows)/Content/Sounds/PlayerKilled.wma
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sounds/PlayerKilled.wma
 /importer:WmaImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:../../Platformer (Windows)/Content/Sounds/PlayerKilled.wma;Sounds/PlayerKilled.wma
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sounds/PlayerKilled.wma;Sounds/PlayerKilled.wma
 
-#begin ../../Platformer (Windows)/Content/Sounds/Powerup.wma
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sounds/Powerup.wma
 /importer:WmaImporter
 /processor:SoundEffectProcessor
 /processorParam:Quality=Best
-/build:../../Platformer (Windows)/Content/Sounds/Powerup.wma;Sounds/Powerup.wma
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sounds/Powerup.wma;Sounds/Powerup.wma
 
-#begin ../../Platformer (Windows)/Content/Sprites/Gem.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/Gem.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -231,9 +231,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/Gem.png;Sprites/Gem.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/Gem.png;Sprites/Gem.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/MonsterA/Die.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterA/Die.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -243,9 +243,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/MonsterA/Die.png;Sprites/MonsterA/Die.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterA/Die.png;Sprites/MonsterA/Die.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/MonsterA/Idle.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterA/Idle.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -255,9 +255,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/MonsterA/Idle.png;Sprites/MonsterA/Idle.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterA/Idle.png;Sprites/MonsterA/Idle.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/MonsterA/Run.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterA/Run.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -267,9 +267,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/MonsterA/Run.png;Sprites/MonsterA/Run.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterA/Run.png;Sprites/MonsterA/Run.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/MonsterB/Idle.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterB/Idle.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -279,9 +279,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/MonsterB/Idle.png;Sprites/MonsterB/Idle.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterB/Idle.png;Sprites/MonsterB/Idle.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/MonsterB/Run.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterB/Run.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -291,9 +291,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/MonsterB/Run.png;Sprites/MonsterB/Run.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterB/Run.png;Sprites/MonsterB/Run.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/MonsterC/Die.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterC/Die.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -303,9 +303,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/MonsterC/Die.png;Sprites/MonsterC/Die.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterC/Die.png;Sprites/MonsterC/Die.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/MonsterC/Idle.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterC/Idle.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -315,9 +315,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/MonsterC/Idle.png;Sprites/MonsterC/Idle.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterC/Idle.png;Sprites/MonsterC/Idle.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/MonsterC/Run.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterC/Run.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -327,9 +327,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/MonsterC/Run.png;Sprites/MonsterC/Run.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterC/Run.png;Sprites/MonsterC/Run.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/MonsterD/Idle.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterD/Idle.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -339,9 +339,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/MonsterD/Idle.png;Sprites/MonsterD/Idle.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterD/Idle.png;Sprites/MonsterD/Idle.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/MonsterD/Run.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterD/Run.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -351,9 +351,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/MonsterD/Run.png;Sprites/MonsterD/Run.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/MonsterD/Run.png;Sprites/MonsterD/Run.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/Player/Celebrate.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/Player/Celebrate.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -363,9 +363,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/Player/Celebrate.png;Sprites/Player/Celebrate.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/Player/Celebrate.png;Sprites/Player/Celebrate.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/Player/Die.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/Player/Die.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -375,9 +375,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/Player/Die.png;Sprites/Player/Die.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/Player/Die.png;Sprites/Player/Die.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/Player/Idle.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/Player/Idle.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -387,9 +387,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/Player/Idle.png;Sprites/Player/Idle.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/Player/Idle.png;Sprites/Player/Idle.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/Player/Jump.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/Player/Jump.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -399,9 +399,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/Player/Jump.png;Sprites/Player/Jump.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/Player/Jump.png;Sprites/Player/Jump.png
 
-#begin ../../Platformer (Windows)/Content/Sprites/Player/Run.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Sprites/Player/Run.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -411,9 +411,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Sprites/Player/Run.png;Sprites/Player/Run.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Sprites/Player/Run.png;Sprites/Player/Run.png
 
-#begin ../../Platformer (Windows)/Content/Tiles/BlockA0.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA0.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -423,9 +423,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Tiles/BlockA0.png;Tiles/BlockA0.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA0.png;Tiles/BlockA0.png
 
-#begin ../../Platformer (Windows)/Content/Tiles/BlockA1.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA1.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -435,9 +435,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Tiles/BlockA1.png;Tiles/BlockA1.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA1.png;Tiles/BlockA1.png
 
-#begin ../../Platformer (Windows)/Content/Tiles/BlockA2.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA2.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -447,9 +447,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Tiles/BlockA2.png;Tiles/BlockA2.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA2.png;Tiles/BlockA2.png
 
-#begin ../../Platformer (Windows)/Content/Tiles/BlockA3.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA3.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -459,9 +459,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Tiles/BlockA3.png;Tiles/BlockA3.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA3.png;Tiles/BlockA3.png
 
-#begin ../../Platformer (Windows)/Content/Tiles/BlockA4.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA4.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -471,9 +471,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Tiles/BlockA4.png;Tiles/BlockA4.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA4.png;Tiles/BlockA4.png
 
-#begin ../../Platformer (Windows)/Content/Tiles/BlockA5.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA5.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -483,9 +483,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Tiles/BlockA5.png;Tiles/BlockA5.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA5.png;Tiles/BlockA5.png
 
-#begin ../../Platformer (Windows)/Content/Tiles/BlockA6.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA6.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -495,9 +495,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Tiles/BlockA6.png;Tiles/BlockA6.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockA6.png;Tiles/BlockA6.png
 
-#begin ../../Platformer (Windows)/Content/Tiles/BlockB0.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockB0.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -507,9 +507,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Tiles/BlockB0.png;Tiles/BlockB0.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockB0.png;Tiles/BlockB0.png
 
-#begin ../../Platformer (Windows)/Content/Tiles/BlockB1.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockB1.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -519,9 +519,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Tiles/BlockB1.png;Tiles/BlockB1.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Tiles/BlockB1.png;Tiles/BlockB1.png
 
-#begin ../../Platformer (Windows)/Content/Tiles/Exit.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Tiles/Exit.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -531,9 +531,9 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Tiles/Exit.png;Tiles/Exit.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Tiles/Exit.png;Tiles/Exit.png
 
-#begin ../../Platformer (Windows)/Content/Tiles/Platform.png
+#begin ../../Platformer Monogame 3_7 (Windows)/Content/Tiles/Platform.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -543,5 +543,5 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../Platformer (Windows)/Content/Tiles/Platform.png;Tiles/Platform.png
+/build:../../Platformer Monogame 3_7 (Windows)/Content/Tiles/Platform.png;Tiles/Platform.png
 
